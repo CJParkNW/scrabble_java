@@ -1,7 +1,7 @@
 
 # Scrabble Game (Version 0)
 
-Authors: Rose Porta (@rporta23) and Catherine Park
+Authors: Rose Porta ([@rporta23](https://github.com/rporta23)) and Catherine Park
 
 Course: Data Structures
 
